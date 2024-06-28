@@ -1,0 +1,15 @@
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\bin\Debug\net8.0\ElevatorServiceTest.deps.json
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\bin\Debug\net8.0\ElevatorServiceTest.dll
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\bin\Debug\net8.0\ElevatorServiceTest.pdb
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\bin\Debug\net8.0\ElevatorService.dll
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\bin\Debug\net8.0\ElevatorService.pdb
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\obj\Debug\net8.0\ElevatorServiceTest.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\obj\Debug\net8.0\ElevatorServiceTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\obj\Debug\net8.0\ElevatorServiceTest.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\obj\Debug\net8.0\ElevatorServiceTest.AssemblyInfo.cs
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\obj\Debug\net8.0\ElevatorServiceTest.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\obj\Debug\net8.0\Elevator.ECD7B099.Up2Date
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\obj\Debug\net8.0\ElevatorServiceTest.dll
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\obj\Debug\net8.0\refint\ElevatorServiceTest.dll
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\obj\Debug\net8.0\ElevatorServiceTest.pdb
+D:\Visual Studio Projects\DonaldElevator\ElevatorServiceTest\obj\Debug\net8.0\ref\ElevatorServiceTest.dll

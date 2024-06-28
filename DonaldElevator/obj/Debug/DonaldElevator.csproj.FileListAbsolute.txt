@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\DonaldElevator\DonaldElevator\bin\Debug\DonaldElevator.exe.config
+D:\Visual Studio Projects\DonaldElevator\DonaldElevator\bin\Debug\DonaldElevator.exe
+D:\Visual Studio Projects\DonaldElevator\DonaldElevator\bin\Debug\DonaldElevator.pdb
+D:\Visual Studio Projects\DonaldElevator\DonaldElevator\bin\Debug\Elevator.dll
+D:\Visual Studio Projects\DonaldElevator\DonaldElevator\bin\Debug\Elevator.pdb
+D:\Visual Studio Projects\DonaldElevator\DonaldElevator\obj\Debug\DonaldElevator.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\DonaldElevator\DonaldElevator\obj\Debug\DonaldElevator.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\DonaldElevator\DonaldElevator\obj\Debug\DonaldEl.7D96338B.Up2Date
+D:\Visual Studio Projects\DonaldElevator\DonaldElevator\obj\Debug\DonaldElevator.exe
+D:\Visual Studio Projects\DonaldElevator\DonaldElevator\obj\Debug\DonaldElevator.pdb

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Projects\\DonaldElevator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{809EA0DE-C152-4237-84F9-2A3C4E5765CD}|DonaldElevator\\DonaldElevator.csproj|d:\\visual studio projects\\donaldelevator\\donaldelevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809EA0DE-C152-4237-84F9-2A3C4E5765CD}|DonaldElevator\\DonaldElevator.csproj|solutionrelative:donaldelevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AF7EF7-7166-4843-802F-A79B64070F72}|ElevatorTest\\ElevatorTest.csproj|d:\\visual studio projects\\donaldelevator\\elevatortest\\elevatorservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AF7EF7-7166-4843-802F-A79B64070F72}|ElevatorTest\\ElevatorTest.csproj|solutionrelative:elevatortest\\elevatorservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D828D6-9CB8-47B0-AEA7-2D12FAFFA467}|Elevator\\Elevator.csproj|d:\\visual studio projects\\donaldelevator\\elevator\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D828D6-9CB8-47B0-AEA7-2D12FAFFA467}|Elevator\\Elevator.csproj|solutionrelative:elevator\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElevatorServiceTest.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\DonaldElevator\\ElevatorTest\\ElevatorServiceTest.cs",
+              "RelativeDocumentMoniker": "ElevatorTest\\ElevatorServiceTest.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\DonaldElevator\\ElevatorTest\\ElevatorServiceTest.cs",
+              "RelativeToolTip": "ElevatorTest\\ElevatorServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:30:32.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\DonaldElevator\\Elevator\\Elevator.cs",
+              "RelativeDocumentMoniker": "Elevator\\Elevator.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\DonaldElevator\\Elevator\\Elevator.cs",
+              "RelativeToolTip": "Elevator\\Elevator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:25:49.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\DonaldElevator\\DonaldElevator\\Program.cs",
+              "RelativeDocumentMoniker": "DonaldElevator\\Program.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\DonaldElevator\\DonaldElevator\\Program.cs",
+              "RelativeToolTip": "DonaldElevator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:54:28.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

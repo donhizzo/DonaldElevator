@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\DonaldElevator\Elevator\bin\Debug\Elevator.dll
+D:\Visual Studio Projects\DonaldElevator\Elevator\bin\Debug\Elevator.pdb
+D:\Visual Studio Projects\DonaldElevator\Elevator\obj\Debug\Elevator.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\DonaldElevator\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\DonaldElevator\Elevator\obj\Debug\Elevator.dll
+D:\Visual Studio Projects\DonaldElevator\Elevator\obj\Debug\Elevator.pdb

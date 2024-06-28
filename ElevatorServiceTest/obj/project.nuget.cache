@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AUPQZ+ZaFZlyy+jR2BjVrr4Yg+vXVJqHq5+fh9hzoSFOM2akZtHsLdvE632wisPvau0j/06u4vwW6WWLFokQ6g==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Projects\\DonaldElevator\\ElevatorServiceTest\\ElevatorServiceTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hizzo\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
